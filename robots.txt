@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ilejuija.github.io/AHO/sitemap_index.txt
+Sitemap: https://ilejuija.github.io/MIp/sitemap_index.txt
+Sitemap: https://ilejuija.github.io/Rhn/sitemap_index.txt
+Sitemap: https://ilejuija.github.io/bVy/sitemap_index.txt
